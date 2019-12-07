@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\nikita\documents\v10\t3\t3\source.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  t3.vcxproj -> C:\Users\Nikita\Documents\v10\t3\Debug\t3.exe

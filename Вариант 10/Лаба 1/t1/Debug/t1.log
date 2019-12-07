@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\nikita\documents\v10\t1\t1\source.cpp(10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\nikita\documents\v10\t1\t1\source.cpp(11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\nikita\documents\v10\t1\t1\source.cpp(12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  t1.vcxproj -> C:\Users\Nikita\Documents\v10\t1\Debug\t1.exe
